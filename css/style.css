@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.wrap{
+	margin: 100px;
+	overflow: hidden;
+	width: 600px;
+	margin: auto;
+}
+.box{
+	padding: 50px;
+	background: green;
+	float: left;
+	margin: 10px;
+	color: white;
+}
+.wrap-button{
+	margin: auto;
+	width: 120px;
+	overflow: hidden;
+}
+.btn-load{
+	padding: 10px;
+	background: blue;
+	color: white;
+}
+.box-hidden{
+	display: none;
+}
